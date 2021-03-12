@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-recaptcha/static/css/main.6ad5cc3b.chunk.css",
-    "main.js": "/react-recaptcha/static/js/main.ca3878c7.chunk.js",
-    "main.js.map": "/react-recaptcha/static/js/main.ca3878c7.chunk.js.map",
+    "main.js": "/react-recaptcha/static/js/main.3249bf1f.chunk.js",
+    "main.js.map": "/react-recaptcha/static/js/main.3249bf1f.chunk.js.map",
     "runtime-main.js": "/react-recaptcha/static/js/runtime-main.d5e16483.js",
     "runtime-main.js.map": "/react-recaptcha/static/js/runtime-main.d5e16483.js.map",
     "static/js/2.5f856103.chunk.js": "/react-recaptcha/static/js/2.5f856103.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.d5e16483.js",
     "static/js/2.5f856103.chunk.js",
     "static/css/main.6ad5cc3b.chunk.css",
-    "static/js/main.ca3878c7.chunk.js"
+    "static/js/main.3249bf1f.chunk.js"
   ]
 }
