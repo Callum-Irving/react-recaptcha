@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/react-recaptcha/static/css/main.6ad5cc3b.chunk.css",
-    "main.js": "/react-recaptcha/static/js/main.3249bf1f.chunk.js",
-    "main.js.map": "/react-recaptcha/static/js/main.3249bf1f.chunk.js.map",
-    "runtime-main.js": "/react-recaptcha/static/js/runtime-main.d5e16483.js",
-    "runtime-main.js.map": "/react-recaptcha/static/js/runtime-main.d5e16483.js.map",
-    "static/js/2.5f856103.chunk.js": "/react-recaptcha/static/js/2.5f856103.chunk.js",
-    "static/js/2.5f856103.chunk.js.map": "/react-recaptcha/static/js/2.5f856103.chunk.js.map",
+    "main.js": "/react-recaptcha/static/js/main.ee7583b5.chunk.js",
+    "main.js.map": "/react-recaptcha/static/js/main.ee7583b5.chunk.js.map",
+    "runtime-main.js": "/react-recaptcha/static/js/runtime-main.c14e8c99.js",
+    "runtime-main.js.map": "/react-recaptcha/static/js/runtime-main.c14e8c99.js.map",
+    "static/js/2.f2833171.chunk.js": "/react-recaptcha/static/js/2.f2833171.chunk.js",
+    "static/js/2.f2833171.chunk.js.map": "/react-recaptcha/static/js/2.f2833171.chunk.js.map",
     "index.html": "/react-recaptcha/index.html",
     "static/css/main.6ad5cc3b.chunk.css.map": "/react-recaptcha/static/css/main.6ad5cc3b.chunk.css.map",
-    "static/js/2.5f856103.chunk.js.LICENSE.txt": "/react-recaptcha/static/js/2.5f856103.chunk.js.LICENSE.txt"
+    "static/js/2.f2833171.chunk.js.LICENSE.txt": "/react-recaptcha/static/js/2.f2833171.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d5e16483.js",
-    "static/js/2.5f856103.chunk.js",
+    "static/js/runtime-main.c14e8c99.js",
+    "static/js/2.f2833171.chunk.js",
     "static/css/main.6ad5cc3b.chunk.css",
-    "static/js/main.3249bf1f.chunk.js"
+    "static/js/main.ee7583b5.chunk.js"
   ]
 }
