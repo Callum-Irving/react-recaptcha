@@ -2,7 +2,7 @@ import React from 'react';
 import socketIOClient from 'socket.io-client';
 
 let socket;
-const ENDPOINT = 'http://localhost:5000/';
+const ENDPOINT = 'https://react-recaptcha-123.herokuapp.com/';
 
 class Chat extends React.Component {
 	constructor(props) {
